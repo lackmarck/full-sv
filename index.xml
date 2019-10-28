@@ -113,30 +113,20 @@
 <link href='https://fonts.googleapis.com/css?family=Roboto' rel='stylesheet'/>
 <link href='https://cdn.jsdelivr.net/npm/animate.css@3.5.2/animate.min.css' rel='stylesheet'/>
 
-<script type='text/javascript'>
-eval(function(p,a,c,k,e,r){e=function(c){return c.toString(a)};if(!&#39;&#39;.replace(/^/,String)){while(c--)r[e(c)]=k[c]||e(c);k=[function(e){return r[e]}];e=function(){return&#39;\\w+&#39;};c=1};while(c--)if(k[c])p=p.replace(new RegExp(&#39;\\b&#39;+e(c)+&#39;\\b&#39;,&#39;g&#39;),k[c]);return p}(&#39;5 h(7){6.4(e(7.f.g$k.$t,o))}5 p(){0=3 2();8=3 2(0.v(),0.i()+1,0.j());9=3 2(l,m,n);a=8.b()-9.b();c=q.r(a/(s*d*d*u));6.4(c)}&#39;,32,32,&#39;fecha||Date|new|write|function|document|json|hoy|inicio|resta|getTime|resultado|60|parseInt|feed|openSearch|mbhTotalCount|getMonth|getDate|totalResults|2015|06|23|10|diasonline|Math|floor|1000||24|getFullYear&#39;.split(&#39;|&#39;),0,{}))
-</script>
-
-
-&lt;style id=&#39;page-skin-1&#39;&gt;/*
 <b:skin><![CDATA[*/
-
 p,label,span,h1,h2,h3,h4,h5,h6,a {
-	font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto', sans-serif;
 }
-
 
 .nav__item.is-active {
     color: red;
 }
 
-
 body {
     color: #222;
-	font-family: Arial,"Helvetica Neue",Helvetica,sans-serif;
+    font-family: Arial,"Helvetica Neue",Helvetica,sans-serif;
     overflow-x: hidden;
 }
-
 
 /*BANNER COMENTARIOS CERRADOS*/
 .comment-info {
@@ -166,10 +156,10 @@ ul li {list-style: none outside none;}
 img {border: 0 none;}
 
 body {
-	font-size: 12px;
-	line-height: 1.5;
-/*background: #232323;*/
-	background: #fff;
+    font-size: 12px;
+    line-height: 1.5;
+    /*background: #232323;*/
+    background: #fff;
 }
 
 h1,h2,h3,h4,h5,h6 {color: #111;font-weight: normal;}
@@ -1114,7 +1104,6 @@ article.post {
     max-width: 710px;
 }
 
-
 /*=======================================================
 ||                                                      ||
 ||          ESTILOS DE LOS COMENTARIOS DEL BLOG         ||
@@ -1439,14 +1428,6 @@ ul.t-item.search .t-icon {
 /*]]>*/
 </style>
 
-<!--Instalar aqui los Complementos
-///////////////-->
-
-
-<!--Fin de los complementos
-///////////////-->
-
-<!--Configuraciones basicas-->
 <style type='text/css'>
 /*<![CDATA[*/
 
@@ -1484,13 +1465,7 @@ ul.follow li i.i-afl {
     background-image: url("https://2.bp.blogspot.com/-bjRz0WUroGM/U-fPWSLuVUI/AAAAAAAAA4w/9yCvKhxmYSA/s1600/afl-groud-01.png");
 }
 
-
-
 [class*=" icon-"]:before,[class^=icon-]:before,[data-icon]:before{font-family:bigwhale!important;font-style:normal!important;font-weight:400!important;font-variant:normal!important;text-transform:none!important;speak:none;line-height:1;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}@font-face{font-family:bigwhale;src:url(https://file.myfontastic.com/i2R58CRY9bjPEZpPjeYdeC/fonts/1501789137.woff) format("woff");font-weight:400;font-style:normal}[data-icon]:before{content:attr(data-icon)}.icon-facebook:before{content:"\61"}.icon-google-plus:before{content:"\62"}.icon-twitter:before{content:"\63"}.icon-youtube:before{content:"\64"}.icon-git-branch:before{content:"\65"}.icon-home:before{content:"\67"}.icon-file:before{content:"\68"}.icon-exclamation:before{content:"\69"}.icon-anime:before{content:"\6a"}.icon-blogger:before{content:"\6b"}.icon-css:before{content:"\6c"}.icon-imagenes:before{content:"\6d"}.icon-enciclopedia:before{content:"\6e"}.icon-javascript:before{content:"\6f"}.icon-seo:before{content:"\70"}.icon-slider:before{content:"\71"}.icon-github:before{content:"\72"}.icon-plantillas:before{content:"\73"}.icon-rendimiento:before{content:"\74"}.icon-tips:before{content:"\75"}.icon-down:before{content:"\76"}.icon-ext:before{content:"\77"}.icon-tumblr:before{content:"\78"}.icon-pinterest:before{content:"\79"}.icon-star:before{content:"\41"}.icon-heart:before{content:"\42"}.icon-buy:before{content:"\7a"}.icon-paper-plane:before{content:"\66"}.icon-patreon:before{content:"\43"}.icon-link-external:before{content:"\44"}
-
-
-
-
 
 /*]]>*/
 </style>
@@ -1503,9 +1478,7 @@ ul.follow li i.i-afl {
      });
 </script>
 
-</head> 
-
-<!-- ####################################################################################################### -->
+</head>
 
 <body>
 
@@ -1514,7 +1487,6 @@ ul.follow li i.i-afl {
         <a class='logo' expr:href='data:blog.homepageUrl'>
           <h1 style='font-weight: bold; color: white;'>FULL-SV </h1>
         </a>
-
 
       <nav class='nav'>
           <ul class='t-menu fl'>
@@ -1525,7 +1497,6 @@ ul.follow li i.i-afl {
 			<li><a class='nav__item' href='https://full-sv.blogspot.com/p/preguntas.html'><i aria-hidden='true' class='fa fa-question-circle'/> ASK ME!</a></li>
         </ul>
       </nav>
-
 
         <form action='/search' class='search-form fr' id='searchform' method='get'>
         <fieldset>
@@ -1551,8 +1522,6 @@ display: none;
 
 </header><!-- Fin header -->
 
-<!-- ####################################################################################################### -->
-
 <b:section class='locked' id='menu' showaddelement='yes'>
   <b:widget id='PageList1' locked='true' title='Menu principal estilo Taringa' type='PageList' version='1'>
     <b:widget-settings>
@@ -1560,22 +1529,7 @@ display: none;
       <b:widget-setting name='homeTitle'>Página principal</b:widget-setting>
     </b:widget-settings>
     <b:includable id='main'>
-<!--<div class='sub-menu'>
-<span class='darken'/>
-<nav class='nav'>
-
-<ul class='t-menu fl'>
-<li><a expr:href='data:blog.homepageUrl'><i class='t-icon home'/></a></li>
-<li><a href='https://full-sv.blogspot.com/'>POSTS</a></li>
-<li><a href='https://full-sv.blogspot.com/p/staff.html'>STAFF</a></li>
-<li><a href='#'>Contacto</a></li>
-<li><a href='https://full-sv.blogspot.com/p/copyright.html'>DMCA/Copyright</a></li>
-<li><a href='https://full-sv.blogspot.com/p/preguntas.html'>PREGUNTAS</a></li>
-</ul>
-
-<div class='clear'/>
-    </nav>
-  </div>-->
+    
 </b:includable>
   </b:widget>
   <b:widget id='Header1' locked='false' title='Full-SV: Programas, Juegos, Peliculas, Anime ~ GRATIS (cabecera)' type='Header' version='1'>
@@ -1592,16 +1546,6 @@ display: none;
 
   <b:if cond='data:useImage'>
     <b:if cond='data:imagePlacement == &quot;BEHIND&quot;'>
-      <!--
-      Show image as background to text. You can't really calculate the width
-      reliably in JS because margins are not taken into account by any of
-      clientWidth, offsetWidth or scrollWidth, so we don't force a minimum
-      width if the user is using shrink to fit.
-      This results in a margin-width's worth of pixels being cropped. If the
-      user is not using shrink to fit then we expand the header.
-      -->
-      
-      <!--Show the image only-->
       <div id='header-inner'>
         <a expr:href='data:blog.homepageUrl' style='display: block'>
           <img expr:alt='data:title' expr:height='data:height' expr:id='data:widget.instanceId + &quot;_headerimg&quot;' expr:src='data:sourceUrl' expr:width='data:width' style='display: block'/>
@@ -1671,9 +1615,7 @@ display: none;
     <img alt='error' src='https://3.bp.blogspot.com/-jw0wFDLiBa4/U8gxt87r-OI/AAAAAAAAAY4/PdKh6GBJgto/s1600/404graph.png'/>
 </div>
 
-
 <b:else/>
-
 
 <b:section class='main fl' id='main'>
   <b:widget id='Blog90' locked='false' title='Entradas del blog' type='Blog' version='1'>
@@ -1713,9 +1655,6 @@ display: none;
     <div class='t-title-box'>
       <h2><i aria-hidden='true' class='fa fa-sort-amount-desc'/> Recientes</h2>
     </div>
-
-
-
     <ul class='t-item'>
     <b:loop values='data:posts' var='post'>
         <b:include data='post' name='post'/>
@@ -1745,9 +1684,8 @@ display: none;
     </div>
 </div>
 
-</b:if>         
 </b:if>
-
+</b:if>
 
 <b:if cond='data:blog.pageType == &quot;static_page&quot;'>
 <b:if cond='data:post.allowComments'>
@@ -1756,7 +1694,6 @@ display: none;
 </b:if>
 
 </article>
-
 
 <b:if cond='data:blog.pageType == &quot;item&quot;'>
 <!--Perfil Author
@@ -1879,9 +1816,6 @@ display: none;
                   <h2><i aria-hidden='true' class='fa fa-comments'/> Comentarios recientes</h2>
                 </div>
                 <div class='t-content'>
-                  	<!--<span style="font-color: #00C853;"><i class="fa fa-square" aria-hidden="true"></i></span> Autor del blog
-                    <i class="fa fa-square" aria-hidden="true" style="font-color: #F57F17;"></i> Coment. eliminado
-                    <i class="fa fa-square" aria-hidden="true" style="font-color: #ef5350;"></i> Link caido-->
 
                     <div data-cnum='15' id='t-comment'>
                         <span class='t-info'>Cargando comentarios...</span>
@@ -1996,7 +1930,6 @@ display: none;
     <script type='text/javascript'>
       BLOG_CMT_createIframe(&#39;<data:post.appRpcRelayPath/>&#39;, &#39;<data:post.communityId/>&#39;);
     </script>
-  
 
 </div>
 </b:includable>
@@ -2035,28 +1968,15 @@ display: none;
   </b:if>
 </b:includable>
     <b:includable id='comments' var='post'>
-
-
-
   <div class='comments' id='comments'>
     <a name='comments'/>
-
-
 <div class='t-box'>
     <div class='t-title-box'>
         <h2>Sin comentarios</h2>
     </div>
-
-
-
     <div class='t-content'>
 <span class='comment-info empty'>No hay comentarios. &#161;Sé el primero!</span>
-
-
-
     <b:if cond='data:post.allowComments'>
-     
-  
       <b:if cond='data:post.commentPagingRequired'>
         <span class='paging-control-container'>
           <b:if cond='data:post.hasOlderLinks'>
@@ -2251,10 +2171,6 @@ display: none;
 <li>
     <b:loop values='data:post.labels' var='label'>
 
-        <!--<b:if cond='data:label.name == &quot;sticky&quot;'>
-            <i class='t-icon sticky' expr:title='data:label.name'/>
-        </b:if>-->
-
         <b:if cond='data:label.name == &quot;Mega&quot;'>
             <i class='t-icon Mega' expr:title='data:label.name'/>
         </b:if>
@@ -2290,14 +2206,12 @@ display: none;
         </div>
 </b:if>
 
-
 <!--Paginas-->
 <b:if cond='data:blog.pageType == &quot;static_page&quot;'>
 <div class='content-post'>
     <data:post.body/>
 </div>
 </b:if>
-
 
     </b:includable>
     <b:includable id='postQuickEdit' var='post'>
@@ -2768,33 +2682,6 @@ $.ajax({
 <div id='IrArriba'>
     <a href='#Arriba'><span/></a>
 </div>
-
-<!--<script type='text/javascript'>
-    //<![CDATA[
-    // Botón para Ir Arriba
-	var scrollBottom = $(window).scrollTop() + $(window).height();
-    jQuery.noConflict();
-    jQuery(document).ready(function() {
-        jQuery("#IrArriba").hide();
-        jQuery(function () {
-            jQuery(window).scroll(function () {
-                if (jQuery(this).scrollTop() > 200) {
-                    jQuery('#IrArriba').fadeIn();
-                } else {
-                    jQuery('#IrArriba').fadeOut();
-                }
-            });
-            jQuery('#IrArriba a').click(function () {
-                jQuery('body,html').animate({
-                    scrollTop: 0
-                }, 800);
-                return false;
-            });
-            });
-        });
-
-//]]>
-</script> -->
 
 <!-- SCRIPT PAR OBTENER EL AÑO -->
 <script type='text/javascript'>
