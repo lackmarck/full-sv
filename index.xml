@@ -330,15 +330,18 @@ ul.t-menu li.active > a {background-color: #fff; color: #FFF;}
 .t-icon.sticky {background-image: url("https://3.bp.blogspot.com/-kH-mOneJNsA/WeaSJUaMKjI/AAAAAAAAG8c/osJW_dJSIr4z7TlCQtODf30bmDSXxlP6ACLcBGAs/s1600/Sticky.png");}
 
 .t-icon.Mega {background-image: url("https://3.bp.blogspot.com/-vz0XNlJj1Hw/V_XCylV9ElI/AAAAAAAAGls/hpCWrlpRSiMHunBBiGeNeSa0pxyTS_OcACK4B/s1600/MEGA.png");}
+.t-icon.Mediafire {background-image: url("https://4.bp.blogspot.com/-Et0T-JgiTUw/Xbcnk7NLncI/AAAAAAAAHeY/V5l0LtHu7ksaUDqLApeJKpDhYXJtP8unACK4BGAYYCw/s1600/Mediafire.png");}
+.t-icon.GD {background-image: url("https://1.bp.blogspot.com/-qGKkD0aOIDU/Xbcptp-JEqI/AAAAAAAAHek/GHl6t7s64YsG22maq0nGBj97EESwLYhXgCK4BGAYYCw/s1600/GD.png");}
 .t-icon.Torrent {background-image: url("https://2.bp.blogspot.com/-MNPE-vL6sMI/V_XCynnI34I/AAAAAAAAGlw/9Fu3jLAJHNcMyQA3rh98mmss08PrNhqZQCK4B/s1600/TORRENT.png");}
+.t-icon.Android {background-image: url("https://4.bp.blogspot.com/-JuFIz4_pIqA/Xbdpi8TH0II/AAAAAAAAHfI/LzVxF9UuNJwtdq0fG2WWZCqp6evZ111EwCK4BGAYYCw/s1600/android.png");}
 
-.t-icon.zz-libros {background-image: url("https://4.bp.blogspot.com/-x9Nd4wtlJSY/V_w47fxQqgI/AAAAAAAAH0A/XyzbkXfnkLcqG0gJ6KUJ8PXCCaqci2JtwCK4B/s1600/LIBROS.png");}
-.t-icon.zz-tutorial {background-image: url("https://4.bp.blogspot.com/-x9Nd4wtlJSY/V_w47fxQqgI/AAAAAAAAH0A/XyzbkXfnkLcqG0gJ6KUJ8PXCCaqci2JtwCK4B/s1600/LIBROS.png");}
-.t-icon.zz-programas {background-image: url("https://3.bp.blogspot.com/-GcLh59_qEtw/V_w4s8TFfoI/AAAAAAAAHzQ/RDgX-ij8EHoVJ8dtG66JaLQyLi64HC-aQCK4B/s1600/PROGRAMAS.png");}
-.t-icon.zz-juegos {background-image: url("https://2.bp.blogspot.com/-mbyCXFsHADk/V_w4r9OYoHI/AAAAAAAAHyo/0D6spoEkM7wK9RdbCMmbELECSh4787cZwCK4B/s1600/JUEGOS.png");}
-.t-icon.zz-anime {background-position: -102px -17px;}
-.t-icon.zz-musica {background-image: url("https://3.bp.blogspot.com/-3hB2WiLWW1g/V_w4tEU8f4I/AAAAAAAAHzs/oYFLv7lEusMmiVz7CUrp_MRYlH-WNmOlwCK4B/s1600/MUSICA.png");}
-.t-icon.zz-iso {background-image: url("https://1.bp.blogspot.com/-C8dsFvUN68Y/V_7QIETo72I/AAAAAAAAH2E/wNW99yT8_24sH_zcrgKAMFK6lxOs14aLwCK4B/s1600/ISO.png");}
+.t-icon.Libros {background-image: url("https://4.bp.blogspot.com/-x9Nd4wtlJSY/V_w47fxQqgI/AAAAAAAAH0A/XyzbkXfnkLcqG0gJ6KUJ8PXCCaqci2JtwCK4B/s1600/LIBROS.png");}
+.t-icon.Tutorial {background-image: url("https://4.bp.blogspot.com/-x9Nd4wtlJSY/V_w47fxQqgI/AAAAAAAAH0A/XyzbkXfnkLcqG0gJ6KUJ8PXCCaqci2JtwCK4B/s1600/LIBROS.png");}
+.t-icon.Programas {background-image: url("https://3.bp.blogspot.com/-GcLh59_qEtw/V_w4s8TFfoI/AAAAAAAAHzQ/RDgX-ij8EHoVJ8dtG66JaLQyLi64HC-aQCK4B/s1600/PROGRAMAS.png");}
+.t-icon.Juegos {background-image: url("https://2.bp.blogspot.com/-mbyCXFsHADk/V_w4r9OYoHI/AAAAAAAAHyo/0D6spoEkM7wK9RdbCMmbELECSh4787cZwCK4B/s1600/JUEGOS.png");}
+.t-icon.Anime {background-position: -102px -17px;}
+.t-icon.Musica {background-image: url("https://3.bp.blogspot.com/-3hB2WiLWW1g/V_w4tEU8f4I/AAAAAAAAHzs/oYFLv7lEusMmiVz7CUrp_MRYlH-WNmOlwCK4B/s1600/MUSICA.png");}
+.t-icon.ISO {background-image: url("https://1.bp.blogspot.com/-C8dsFvUN68Y/V_7QIETo72I/AAAAAAAAH2E/wNW99yT8_24sH_zcrgKAMFK6lxOs14aLwCK4B/s1600/ISO.png");}
 
 .t-icon.Animaciones {background-position: 0 0;}
 .t-icon.Apuntes {background-position: -17px 0;}
@@ -347,22 +350,22 @@ ul.t-menu li.active > a {background-color: #fff; color: #FFF;}
 .t-icon.Ciencia {background-position: -87px 0;}
 .t-icon.Deportes {background-position: -119px 0;}
 .t-icon.Ecologia {background-position: -170px 0;}
-.t-icon.zz-economia {background-position: -187px 0;}
-.t-icon.zz-femme {background-position: -204px 0;}
-.t-icon.zz-hazlo {background-position: -221px 0;}
-.t-icon.zz-humor {background-position: -239px 0;}
-.t-icon.zz-info {background-position: 0 -17px;}
-.t-icon.amor {background-position: -255px 0;}
+.t-icon.Economia {background-position: -187px 0;}
+.t-icon.Femme {background-position: -204px 0;}
+.t-icon.Hazlo {background-position: -221px 0;}
+.t-icon.Humor {background-position: -239px 0;}
+.t-icon.Info {background-position: 0 -17px;}
+.t-icon.Amor {background-position: -255px 0;}
 .t-icon.Nose {background-position: -17px -17px;}
 .t-icon.Emulador {background-position: -157px -176px;}
-.t-icon.zz-links {background-position: -51px -17px;}
-.t-icon.zz-linux {background-position: -68px -17px;}
-.t-icon.zz-mac {background-position: -85px -17px;}
-.t-icon.zz-mascotas {background-position: -119px -17px;}
-.t-icon.zz-noticias {background-position: -153px -17px;}
-.t-icon.zz-offtopic {background-position: -170px -17px;}
-.t-icon.zz-paranormal {background-position: -187px -17px;}
-.t-icon.zz-patrocinados {background-position: -204px -17px;}
+.t-icon.Links {background-position: -51px -17px;}
+.t-icon.Linux {background-position: -68px -17px;}
+.t-icon.Mac {background-position: -85px -17px;}
+.t-icon.Mascotas {background-position: -119px -17px;}
+.t-icon.Noticias {background-position: -153px -17px;}
+.t-icon.Offtopic {background-position: -170px -17px;}
+.t-icon.Paranormal {background-position: -187px -17px;}
+.t-icon.Patrocinados {background-position: -204px -17px;}
 .t-icon.zz-recetas-y-cocina {background-position: -221px -17px;}
 .t-icon.zz-reviews {background-position: -239px -17px;}
 .t-icon.zz-salud-bienestar {background-position: -255px -17px;}
@@ -1484,13 +1487,15 @@ ul.follow li i.i-afl {
 
 <header class='t-head' id='t-head'>
     <div class='content-head'>
-        <a class='logo' expr:href='data:blog.homepageUrl'>
+        <!-- <a class='logo' expr:href='data:blog.homepageUrl'> -->
+        <a class='logo' href='https://full-sv.blogspot.com/'>
           <h1 style='font-weight: bold; color: white;'>FULL-SV </h1>
         </a>
 
       <nav class='nav'>
           <ul class='t-menu fl'>
-			<li><a expr:href='data:blog.homepageUrl'>POSTS</a></li>
+			<!-- <li><a expr:href='data:blog.homepageUrl'>POSTS</a></li> -->
+			<li><a href='https://full-sv.blogspot.com/'>POSTS</a></li>
 			<li><a class='nav__item' href='https://full-sv.blogspot.com/p/staff.html'><b:class cond='data:link.isCurrentPage' name='is-active'/>STAFF</a></li>
 			<li><a class='nav__item' href='#'>CONTACTO</a></li>
 			<li><a class='nav__item' href='https://full-sv.blogspot.com/p/copyright.html'>DMCA/Copyright</a></li>
@@ -1655,10 +1660,11 @@ display: none;
     <div class='t-title-box'>
       <h2><i aria-hidden='true' class='fa fa-sort-amount-desc'/> Recientes</h2>
     </div>
+
     <ul class='t-item'>
-    <b:loop values='data:posts' var='post'>
-        <b:include data='post' name='post'/>
-    </b:loop>
+        <b:loop values='data:posts' var='post'>
+            <b:include data='post' name='post'/>
+        </b:loop>
     </ul>
     <b:include name='navegacion'/>
 </div>
@@ -1763,7 +1769,7 @@ display: none;
 <section class='statistic'>
 
         <!-- Estadisticas -->
-            <div class='t-box'>
+            <!-- <div class='t-box'>
                 <div class='t-title-box'>
                   <h2> <i aria-hidden='true' class='fa fa-pie-chart'/> Estadísticas</h2>
                 </div>
@@ -1777,7 +1783,7 @@ display: none;
                 <div class='more'>
                     <a expr:href='data:blog.homepageUrl + &quot;feeds/posts/default?alt=rss&quot;'>Ver feeds</a>
                 </div>
-            </div>
+            </div> -->
             
         <!-- Paginas Amigas (afiliados)-->
             <div class='t-box'>
@@ -2170,15 +2176,61 @@ display: none;
 
 <li>
     <b:loop values='data:post.labels' var='label'>
-
         <b:if cond='data:label.name == &quot;Mega&quot;'>
             <i class='t-icon Mega' expr:title='data:label.name'/>
         </b:if>
 
-        <b:if cond='data:label.isLast == &quot;true&quot;'>
-            <i expr:class='&quot;t-icon &quot; + data:label.name' expr:title='data:label.name'/>
+        <b:if cond='data:label.name == &quot;Mediafire&quot;'>
+            <i class='t-icon Mediafire' expr:title='data:label.name'/>
         </b:if>
 
+        <b:if cond='data:label.name == &quot;Torrent&quot;'>
+            <i class='t-icon Torrent' expr:title='data:label.name'/>
+        </b:if>
+
+        <b:if cond='data:label.name == &quot;GD&quot;'>
+            <i class='t-icon GD' expr:title='data:label.name'/>
+        </b:if>
+
+        <b:if cond='data:label.name == &quot;Android&quot;'>
+            <i class='t-icon Android' expr:title='data:label.name'/>
+        </b:if>
+
+        <b:if cond='data:label.name == &quot;ISO&quot;'>
+            <i class='t-icon ISO' expr:title='data:label.name'/>
+        </b:if>
+        
+        <b:if cond='data:label.name == &quot;Apple&quot; or data:label.name == &quot;iPhone&quot;'>
+            <i class='t-icon Apple' expr:title='data:label.name'/>
+        </b:if>
+        
+        <b:if cond='data:label.name == &quot;Musica&quot; or data:label.name == &quot;Album&quot;'>
+            <i class='t-icon Musica' expr:title='data:label.name'/>
+        </b:if>
+        
+        <b:if cond='data:label.name == &quot;Programas&quot;'>
+            <i class='t-icon Programas' expr:title='data:label.name'/>
+        </b:if>
+        
+        <b:if cond='data:label.name == &quot;Juegos&quot; or data:label.name == &quot;Emuladores&quot;'>
+            <i class='t-icon Juegos' expr:title='data:label.name'/>
+        </b:if>
+        
+        <b:if cond='data:label.name == &quot;Anime&quot; or data:label.name == &quot;Manga&quot;'>
+            <i class='t-icon Anime' expr:title='data:label.name'/>
+        </b:if>
+        
+        <b:if cond='data:label.name == &quot;Libros&quot; or data:label.name == &quot;Tutorial&quot;'>
+            <i class='t-icon Libros' expr:title='data:label.name'/>
+        </b:if>
+        
+        <b:if cond='data:label.name == &quot;Peliculas&quot; or data:label.name == &quot;Video&quot;'>
+            <i class='t-icon Peliculas' expr:title='data:label.name'/>
+        </b:if>
+
+        <!-- <b:if cond='data:label.isLast == &quot;true&quot;'>
+            <i expr:class='&quot;t-icon &quot; + data:label.name' expr:title='data:label.name'/>
+        </b:if> -->
     </b:loop>
 
     <h2>
@@ -2663,7 +2715,7 @@ $.ajax({
           html += '<li><span style="color: #00C853; font-weight: bold;"><i class="fa fa-code" aria-hidden="true"></i> '+name+':</span><a href="'+url+'" style=""> '+comment+'</a></li>';
         }else if(isDeleted.name === "blogger.contentRemoved" && isDeleted.value === "true"){
           html += '<li><span style="text-decoration: line-through; color: #F57F17;">'+name+': '+comment+'</span></li>';
-        }else if(comment === down_link){
+        }else if(comment == down_link){
             html += '<li><span style="color: #ef5350; font-weight: bold;"><i class="fa fa-exclamation-triangle" aria-hidden="true"></i> BROKEN LINK: <a href="' + url + '">' + url + '</a></span></li>';
         }
         else{
